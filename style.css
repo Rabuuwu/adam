@@ -29,6 +29,7 @@ header{
     height: 800px;
     overflow-y: auto;
     overflow-x: hidden;
+    text-align: justify;
 }
 .content::-webkit-scrollbar{
     width: 0.25rem;
