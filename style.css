@@ -11,6 +11,7 @@ header{
     align-items: center;
     text-align: center;
     height: 5rem;
+    line-height: 5rem;
 }
 
 
@@ -23,8 +24,8 @@ header{
 }
 .menu{
     flex: 1 0 5rem;
-    text-decoration: overline;
     height: 100%;
+    text-align: center;
 }
 .content{
     flex: 1 1 auto;
@@ -45,12 +46,13 @@ header{
 
 
 .right{
-    flex: 0 1 5rem;
-    text-decoration: dotted;
+    flex: 1 0 5rem;
     height: 100%;
 }
 .footer{
     height: 5rem;
     background-color: darkgrey !important;
     min-width: auto;
+    text-align: center;
+    line-height: 5rem;
 }
