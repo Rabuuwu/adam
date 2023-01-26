@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    background: linear-gradient(to bottom, #666699 -20%, #660033 130%);
+    color:white;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+}
+.menu{
+    text-decoration: overline;
+}
+.content{
+    text-align: center;
+    align-content: center;
+}
+.right{
+    text-decoration: dotted;
+}
