@@ -52,3 +52,7 @@ header{
     text-align: center;
     line-height: 5rem;
 }
+.footer > a{
+    text-decoration: none;
+    color: white !important;
+}
